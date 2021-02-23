@@ -29,3 +29,4 @@ Bonus if you implement the three common traversals (pre-order, post-order, in-or
 More Bonus if you also include a breadth-first traversal (sometimes called a level-order search)
 
 5. Analyze and compare the complexity of insert and search as compared to a binary tree without any order in its nodes.
+- For a binary Tree and BST,searching gives a worst case complexity of O(n) because it has to traverse all its children, same with insertion. 
