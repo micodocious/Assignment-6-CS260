@@ -1,6 +1,5 @@
 # Assignment-6-CS260
 
-## click on RAW FILE to view this doc as intended
 ### Create some tests (at least one per function) that you want your Binary Search Tree (BST) to pass before you start coding.
 When given (50,60,30,90,20,40,55)
 some tests include testing the insertion function to expect (50,30,60,20,40,55,90)
