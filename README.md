@@ -7,7 +7,7 @@ some tests include testing the insertion function to expect (50,30,60,20,40,55,9
                      /  \ 
                     30    60
                    / \   /  \ 
-                  20  40 55   90
+                  20  40 55   90 
 Expecting 
 Inorder traversal of tree
 20, 30, 40, 50, 55, 60, 90,
