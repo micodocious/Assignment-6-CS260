@@ -3,11 +3,11 @@
 ## Create some tests (at least one per function) that you want your Binary Search Tree (BST) to pass before you start coding.
 When given (50,60,30,90,20,40,55)
 some tests include testing the insertion function to expect (50,30,60,20,40,55,90)
-        //              50
-        //             /  \ 
-        //           30    60
-        //          / \   /  \ 
-        //        20  40 55   90
+                      50
+                     /  \ 
+                    30    60
+                   / \   /  \ 
+                  20  40 55   90
 Expecting 
 Inorder traversal of tree
 20, 30, 40, 50, 55, 60, 90,
